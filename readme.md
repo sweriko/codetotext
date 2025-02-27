@@ -1,6 +1,6 @@
 # Codebase to text
 
-This script transforms your entire codebase into a perfectly tagged text file —ideal for tools like ChatGPT.
+This script transforms your entire codebase into a perfectly tagged and structured text file —ideal for tools like ChatGPT.
 It uses [gitingest](https://gitingest.com/).
 
 
