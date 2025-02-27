@@ -11,7 +11,7 @@ echo "Running gitingest..."
 gitingest . --exclude-pattern 'dump.sh'
 
 # Wait a moment to ensure digest.txt is created
-sleep 0.5
+sleep 0.1
 
 DIGEST_FILE="digest.txt"
 
